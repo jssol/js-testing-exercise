@@ -1,0 +1,23 @@
+{
+  "name": "js-testing-exercise",
+  "version": "1.0.0",
+  "description": "node_modules/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jssol/js-testing-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jssol/js-testing-exercise/issues"
+  },
+  "homepage": "https://github.com/jssol/js-testing-exercise#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
